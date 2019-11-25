@@ -5,8 +5,7 @@
 2. Maersk devices used for Container tracking
 
         AT&T hardware RCD(remote connecting device)
-        WCD maersk developed. (Wireless communicating device)
-        MCI mearsk container industry manufacturing WCD
+        MCI( mearsk container industry) manufacturing WCD(Wireless communicating device)
 
 
 Maersk has connected over 280,000 of its refrigerated containers to the AT&T network.
@@ -21,7 +20,7 @@ Drivers have the tools to be more productive because they have more information 
 
 
 3. For Sataelite communication Maersk uses "Network in a box device" (NIB)
-   SSI =>star solution international provides NIB Device
+   SSI(star solution international) provides NIB Device
 
 
 4. They use eSIM - so it will automatically switch 
@@ -40,9 +39,9 @@ Industry leading supplier Qualcomm defines a Private LTE network as one tailored
 The Private LTE Market size is set to exceed USD 11 billion by 2024; according to a new research report by Global Market Insights, Inc.
 
 
-smart containers as a ‘game-changer’.
 
-Maersk Line has over the past years equipped more than 270,000 refrigerated containers or ‘reefers’ with Remote Container Management (RCM).
+
+Smart containers is  a ‘game-changer’.Maersk Line has over the past years equipped more than 270,000 refrigerated containers or ‘reefers’ with Remote Container Management (RCM).
 This technology allows us to track in real time the exact position of the container, its temperature and humidity and potential off service.
 We went live operationally in Q3 2015 but are already seeing potential for the wealth of data available. 
 RCM enables greater visibility over cargo, and more importantly, a significant reduction in damaged cargo.
