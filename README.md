@@ -1,8 +1,8 @@
 # maritime
-1. NAVIC - ISRO developed solution for shipping boat to track
+1. NAVIC - ISRO developed solution for fisherman boat tracking
 
 
-2. Maersk devices uses for COntainer tracking
+2. Maersk devices used for Container tracking
 
         AT&T hardware RCD(remote connecting device)
         WCD maersk developed. (Wireless communicating device)
@@ -18,14 +18,13 @@ Managers can view the location of containers for cargo owners.
 Back-office workers can easily find containers. 
 Drivers have the tools to be more productive because they have more information about their next load to pick up.
 
-===========
 
-3. For Sataelite communication Maersk uses "Network in a box device" (NIB)using
-   SSI =>star solution international providing NIB Device
+
+3. For Sataelite communication Maersk uses "Network in a box device" (NIB)
+   SSI =>star solution international provides NIB Device
 
 
 4. They use eSIM - so it will automatically switch 
-===========
 
 
 A recent report by TMR projects the value of global digital transformation of the maritime freight market to reach ~US$ 38.4 billion by 2027. 
