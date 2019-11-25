@@ -135,3 +135,18 @@ https://www.starsolutions.com/company-blog/maritime-smart-container-solution/
 https://customers.microsoft.com/en-us/story/757564-maersk-transportation-azure-iot
 https://freightbro.com/maersk-line-the-leader-in-global-trade/
 
+
+26-November-2019
+
+https://www.universalcargo.com/how-can-smart-containers-help-shipping-companies/
+https://www.msc.com/che/our-services/reefer-cargo
+https://www.myshiptracking.com/ports/port-of-tilbury-in-gb-united-kingdom-id-421
+https://www.vesselfinder.com/
+https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4
+https://www.marineinsight.com/know-more/top-8-websites-to-track-your-ship/
+
+@aneesh
+NIB crate a network. 
+
+esims are not awalibale in all. The denmark sim will be in roaming for other place. less than 12nauticalmiles will switech to local GSM network
+RCD communicate with NIB. 
