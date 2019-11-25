@@ -1,4 +1,9 @@
 # maritime
+
+How to creta e a GIS application
+https://www.earder.com/tutorials/postgis_geoserver_leaflet/
+
+
 1. NAVIC - ISRO developed solution for fisherman boat tracking
 
 
