@@ -155,3 +155,72 @@ NIB crate a network.
 
 esims are not awalibale in all. The denmark sim will be in roaming for other place. less than 12nauticalmiles will switech to local GSM network
 RCD communicate with NIB. 
+
+November28.2019 updates
+======================
+
+https://circuitdigest.com/article/arduino-vs-raspberryp-pi-difference-between-the-two
+
+https://www.researchgate.net/publication/261343481_Intelligent_ports_based_on_Internet_of_Things/link/555e7a4e08ae8c0cab2c736e/download
+
+
+Maersk has 4 lakh containers - how to manage and monitor the the fleet and containers effectively in cost effective manner was the big challange for them.
+RCM - can send the temperature and humidity inside the container and reset that based on the cammands from the command csenter(RCM contain AT1 devices created by at&t)
+
+maersk indiustrial iot platform consist of iot hub. Iot hub help to injest the date from 2 lkh devices. It has seemless integration with the azure function apps.
+We can control these device with improved device management and provisional capability. This will provide a holistic view towards organisation. We are getting the lexury for an online maintanance
+
+Advantages are -  we are  digitising vessels and containers and removing paper work thus we are creating a collaborative port environemnt, so that all could exchange information digitally and making the port more effective 
+
+Our system will help 
+1. Safeguard your cargo from origin to destination.
+2. disruption forcasting
+3. demand forcasting
+
+Detail- 
+ Remote Container Management (RCM) allows you to monitor the conditions inside your container and make in-transit adjustments to ensure your cargo arrives in peak condition. Maersk monitor your cargo container from pickup to delivery, with detailed information on pull-down rates, temperature, energy, humidity and CO2 levels. You can also monitor your cargo 24/7 with our easy-to-use platform. If a setting deviates from your parameters, you’re notified automatically and we act quickly to rectify the issue. What’s more, GPS tracking enables us to quickly re-route cargo if the market situation changes. 
+
+So, take control of your cargo. Enjoy end-to-end transparency and ensure your customers get better cargo quality on arrival.  
+
+With our Remote Container Management (RCM) you can monitor the conditions inside your container from the moment your goods are locked inside and till delivery at their final destination. In other words, our RCM system brings you peace of mind when shipping fresh, frozen or pharma cargo by eliminating the risk of unexpected surprises when your containers are opened upon arrival.
+
+--------------
+
+Monitoring the light and humidity as it harms the contents
+Door sensors to track where and when the container was opened and closed
+Acoustic sensors to detect possible motion or theft in the container
+Location and altitude sensors to track a containers precise location
+
+-----------
+
+Azsure iot suit and iot hub for developers - iot hub alow millions of devices to connect , throughthe web/mobile app we are saving this to documentdb
+-------------
+AUG 15, 2019 ESRI, CISCO, IBM, INTEL started operation to develop a system.
+
+Esri technology is used to locate, track, map, and provide contextual geographic information. It brings real-time data integration and spatial analytics with map visualization, agile developer tools for web and mobile application development, along with a global library of geographic, demographic, and business data.
+
+Intel’s Connected Logistics Platform provides near real-time supply chain visibility. It monitors the location, quality, and integrity of cargo at every stage of the supply chain, around the world. Companies, use this data to mitigate risk, improve operational efficiencies and reduce supply chain costs.
+
+Cisco’s E-LAN, industrial routers provide Kinetic (Cloud) Services. It connects the Port’s sensor data and synthesizes it to automate port operations.  and
+
+-------------
+Top Alternatives to Microsoft Azure IoT Hub are as follows:
+Google Cloud IoT Core.
+IBM Watson IoT Platform.
+AWS IoT Device Management.
+Oracle IoT Asset Monitoring Cloud.
+Bosch IoT Suite.
+SAP Cloud Platform for IoT.
+AT & T IoT Platform etc.
+
+----------------------
+
+There is no direct open source option for these two azure Services. But you can create a custom gateway very easily. Even azure documents talks about how to create custom IoT hub gateway.
+
+
+As open source alternatives, I would recommend you to take a look at FIWARE community and EdgeX Foundry. FIWARE has a set of open source software components, called Generic Enablers (GEs), to help the development of future internet applications. You can see the following links about IoT and FIWARE:
+
+Build your own IoT platform with FIWARE enablers
+FIWARE enabling IoT big data ecosystems
+IoT services enablement architecture
+Edgex Foundry has a set of microservices that are being developed to help the integration between IoT devices and fog/cloud services. You can learn more reading the official site: https://www.edgexfoundry.org/ .
