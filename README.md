@@ -38,7 +38,7 @@ Major data which is taking to the command center mainly consists :
 4. Location and altitude sensors to track a containers precise location
 
 
-On AUG 15, 2019 ESRI, CISCO, IBM, INTEL announced the developement of a similar system.
+ESRI, CISCO, IBM, INTEL developing a similar system for container management.
 
 Esri technology is used to locate, track, map, and provide contextual geographic information. It brings real-time data integration and spatial analytics with map visualization, agile developer tools for web and mobile application development, along with a global library of geographic, demographic, and business data.
 
