@@ -179,12 +179,9 @@ RCD communicate with NIB.
 
 November28.2019 updates
 
-
 https://circuitdigest.com/article/arduino-vs-raspberryp-pi-difference-between-the-two
 
 https://www.researchgate.net/publication/261343481_Intelligent_ports_based_on_Internet_of_Things/link/555e7a4e08ae8c0cab2c736e/download
-
-
 
 Azure  iot suit and iot hub for developers - iot hub allow millions of devices to connect , though the web/mobile app we are saving this to Documentdb
 
