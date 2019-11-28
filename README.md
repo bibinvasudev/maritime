@@ -18,6 +18,7 @@ Our system will help
 1.	Safeguard your cargo from origin to destination.
 2.	Providing the luxury of an online maintenance
 3. disruption forecasting
+
 NOTE- The end goal is to use data analytics to catch faults before they happen and  demand forecasting.
 
 
