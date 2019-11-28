@@ -1,7 +1,7 @@
 # maritime
 
 Maersk has more than 4 lakh refer containers - how to manage and monitor the fleet and containers efficiently  in cost effective manner was the big challenge that they are facing for long time.
-They have containers  going from the hottest place in Latin America to the coldest north of Alaska
+They have containers  going from the hottest place in Latin America to the coldest north of Alaska.
 
 For this they are developing their own iot platform by integrating AT&T iot devices(AT1 devices created by AT&T) and IOT hub. For satellite communication they are using "Network in a box device" (NIB) devices developed by SSI(star solution international).
 They call it as maersk industrial iot platform  where Azure and on premises flavor is available right now. This integrated platform will make sure that the real-time data is available in the data center.
@@ -19,7 +19,7 @@ Our system will help
 2.	Providing the luxury of an online maintenance
 3. disruption forecasting
 
-NOTE- The end goal is to use data analytics to catch faults before they happen and  demand forecasting.
+NOTE- The end goal is to use data analytics to catch faults before they happen and the demand forecasting.
 
 
 Detail- 
@@ -179,9 +179,12 @@ RCD communicate with NIB.
 
 November28.2019 updates
 
+
 https://circuitdigest.com/article/arduino-vs-raspberryp-pi-difference-between-the-two
 
 https://www.researchgate.net/publication/261343481_Intelligent_ports_based_on_Internet_of_Things/link/555e7a4e08ae8c0cab2c736e/download
+
+
 
 Azure  iot suit and iot hub for developers - iot hub allow millions of devices to connect , though the web/mobile app we are saving this to Documentdb
 
