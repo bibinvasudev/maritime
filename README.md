@@ -19,7 +19,7 @@ Our system will help
 2.	Providing the luxury of an online maintenance
 3. disruption forecasting
 
-NOTE- The end goal is to use data analytics to catch faults before they happen and the demand forecasting.
+Note- The end goal is to use data analytics to catch faults before they happen and the  demand forecasting
 
 
 Detail- 
@@ -30,7 +30,7 @@ So, take control of your cargo. Enjoy end-to-end transparency and ensure your cu
 With Remote Container Management (RCM) you can monitor the conditions inside your container from the moment your goods are locked inside and till delivery at their final destination. In other words, our RCM system brings you peace of mind when shipping fresh, frozen or pharma cargo by eliminating the risk of unexpected surprises when your containers are opened upon arrival.
 
 
-Majore data which is taking to the command center mainly consists :
+Major data which is taking to the command center mainly consists :
 
 1. Monitoring the light and humidity as it harms the contents
 2. Door sensors to track where and when the container was opened and closed
@@ -161,7 +161,6 @@ https://www.starsolutions.com/company-blog/maritime-smart-container-solution/
 https://customers.microsoft.com/en-us/story/757564-maersk-transportation-azure-iot
 https://freightbro.com/maersk-line-the-leader-in-global-trade/
 
-
 26-November-2019
 
 https://www.universalcargo.com/how-can-smart-containers-help-shipping-companies/
@@ -179,12 +178,9 @@ RCD communicate with NIB.
 
 November28.2019 updates
 
-
 https://circuitdigest.com/article/arduino-vs-raspberryp-pi-difference-between-the-two
 
 https://www.researchgate.net/publication/261343481_Intelligent_ports_based_on_Internet_of_Things/link/555e7a4e08ae8c0cab2c736e/download
-
-
 
 Azure  iot suit and iot hub for developers - iot hub allow millions of devices to connect , though the web/mobile app we are saving this to Documentdb
 
