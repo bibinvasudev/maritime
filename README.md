@@ -185,10 +185,17 @@ https://www.researchgate.net/publication/261343481_Intelligent_ports_based_on_In
 Azure  iot suit and iot hub for developers - iot hub allow millions of devices to connect , though the web/mobile app we are saving this to Documentdb
 
 Top Alternatives to Microsoft Azure IoT Hub are as follows:
+
 Google Cloud IoT Core.
+
 IBM Watson IoT Platform.
+
 AWS IoT Device Management.
+
 Oracle IoT Asset Monitoring Cloud.
+
 Bosch IoT Suite.
+
 SAP Cloud Platform for IoT.
+
 AT & T IoT Platform etc.
