@@ -37,6 +37,10 @@ Major data which is taking to the command center mainly consists :
 3. Acoustic sensors to detect possible motion or theft in the container
 4. Location and altitude sensors to track a containers precise location
 
+------------
+
+Why GIS-
+There’s a lot of uncertainty in the shipping process. "When and where" question can be easily answered through this integration 
 
 ESRI, CISCO, IBM, INTEL developing a similar system for container management.
 
