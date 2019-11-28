@@ -17,9 +17,9 @@ Advantages are -  we are  digitizing vessels and containers and removing paper w
 Our system will help 
 1.	Safeguard your cargo from origin to destination.
 2.	Providing the luxury of an online maintenance
-       3.    disruption forecasting
-       4.    demand forecasting
-       5.  the end goal is to use data analytics to catch faults before they happen.
+3.    disruption forecasting
+4.    demand forecasting
+5.  the end goal is to use data analytics to catch faults before they happen.
 
 
 Detail- 
