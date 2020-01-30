@@ -15,10 +15,10 @@ We can control these device with improved device management and provisional capa
 
 Advantages are -  we are  digitizing vessels and containers and removing paper work thus we are creating a collaborative port environment, so that all could exchange information digitally and making the container management more effective 
 
-Our system will help 
+Our system will help the following
 1.	Safeguard your cargo from origin to destination.
 2.	Providing the luxury of an online maintenance
-3. disruption forecasting
+3.      disruption forecasting
 
 Note- The end goal is to use data analytics to catch faults before they happen and the  demand forecasting
 
